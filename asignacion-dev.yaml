@@ -1,5 +1,9 @@
-
+server:
+  port: 8005
+  
 configuracion:
   texto: Esta es el área de DESARROLLO
 
-  otras: uno, dos tres
+  autor:
+    nombre: jlds
+    email: jlds666@gmail.com
