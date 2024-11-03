@@ -2,13 +2,13 @@ server:
   port: 8005
 
 configuracion:
-  texto: Esta es el área de DESARROLLO
+  texto: Esta es el área de DESARROLLO ...
   autor:
-    nombre: jlds
-    email: jlds666@gmail.com
+    nombre: jlds/jgb
+    email: jldsKk666@gmail.com
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: *
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: *
