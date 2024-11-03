@@ -1,0 +1,5 @@
+server:
+  port: 8005
+
+configuracion:
+  texto: Esta es el área de PRODUCCION
