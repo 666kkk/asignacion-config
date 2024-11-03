@@ -2,9 +2,9 @@ server:
   port: 8005
 
 configuracion:
-  texto: Esta es el área de DESARROLLO ...
+  texto: Esta es el área de DESARROLLO ...Cambio
   autor:
-    nombre: jlds/jgb
+    nombre: jlds/jgb de nuevo
     email: jldsKk666@gmail.com
 
 #management:
