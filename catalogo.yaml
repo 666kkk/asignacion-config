@@ -1,4 +1,11 @@
 
-configuracion:
-  texto: Esta es el área de produccion para CATALOGO
-  
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;databaseName=ppc;encrypt=false;trustServerCertificate=true;integratedSecurity=false;
+    username: devppc
+    password: pactoCampoBamx25
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    hikari: 
+      connection-test-query: select 1
+  jpa:
+    show-sql: false
+    

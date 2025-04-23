@@ -1,3 +1,10 @@
 
-configuracion:
-  texto: Esta es el área de desarrollo para CATALOGO
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;databaseName=BamxDev;encrypt=false;trustServerCertificate=false;integratedSecurity=false;
+    username: sa
+    password: Paisano1248.
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    hikari: 
+      connection-test-query: select 1
+  jpa:
+    show-sql: true
