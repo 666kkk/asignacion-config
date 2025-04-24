@@ -1,4 +1,7 @@
-
+spring:
+  application:
+    name: catalogo
+  
   datasource:
     url: jdbc:sqlserver://localhost:1433;databaseName=BamxDev;encrypt=false;trustServerCertificate=false;integratedSecurity=false;
     username: sa
