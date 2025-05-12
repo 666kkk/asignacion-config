@@ -13,5 +13,5 @@ spring:
     show-sql: false
 
   turnstille:
-    security-key=0x4AAAAAABZKCxiKZbMW8epnSJQtu7yfyhU
+    security-key: 0x4AAAAAABZKCxiKZbMW8epnSJQtu7yfyhU
     
