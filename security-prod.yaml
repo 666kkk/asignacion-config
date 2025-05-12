@@ -11,4 +11,7 @@ spring:
       connection-test-query: select 1
   jpa:
     show-sql: false
+
+  turnstille:
+    security-key=0x4AAAAAABZKCxiKZbMW8epnSJQtu7yfyhU
     
