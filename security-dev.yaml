@@ -12,6 +12,6 @@ spring:
   jpa:
     show-sql: true
 
-  turnstille:
-    security-key: 1x0000000000000000000000000000000AA
+turnstille:
+  security-key: 1x0000000000000000000000000000000AA
     
