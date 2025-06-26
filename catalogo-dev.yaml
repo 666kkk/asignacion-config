@@ -4,7 +4,7 @@ spring:
   
   datasource:
     url: jdbc:sqlserver://localhost:1433;databaseName=BamxDev;encrypt=false;trustServerCertificate=false;integratedSecurity=false;
-    username: sa
+    username: jlds
     password: Paisano1248.
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
     hikari: 
