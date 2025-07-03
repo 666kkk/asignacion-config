@@ -11,4 +11,14 @@ spring:
       connection-test-query: select 1
   jpa:
     show-sql: false
+
+
+
+configuracion:
+  pdfPath: C:/atCloud/bamx/ops/pdfs/
+  fotoPath: C:/atcloud/bamx/ops/fotos/
+  # si se cambia esta variable, entonces debes cambiar en la base de datos a la nueva url
+  # urlBaseFoto: http://209.126.107.62:8092/foto?fotoId=  
+  urlBaseFoto: https://devcampo.bamx.org.mx:4300/api/file/fotoGen?filename=
+
     
